@@ -31,3 +31,5 @@
 *.x86_64
 *~
 .vscode
+build
+
